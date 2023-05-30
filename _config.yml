@@ -1,3 +1,6 @@
 theme: jekyll-theme-minimal
 title: Kagalin's homepage
 description: Bookmark this to keep an eye on my project updates!
+plugins: [jekyll-paginate]
+paginate: 20 # 每页文章数
+paginate_path: "essay/page:num" # 可选，分页链接
