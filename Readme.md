@@ -1,8 +1,7 @@
 
 this is a new page.
 ====================
-welcome here 
------------------------
+welcome here  
 what will we see ?
 -----------------------
 # testPage
